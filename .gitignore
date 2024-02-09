@@ -6,3 +6,4 @@ __pycache__/
 handlers/__pycache__/
 utils/__pycache__/
 tables/
+*.db
